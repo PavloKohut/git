@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
+ 
+
+.border{
+  width: 55%;
+  height: 415px;  
+  background-color: rgba(11, 55, 18, 0.1);
+  position: absolute;
+  margin-left: 111px;
+  margin-top: 200px;
+  border-radius: 20px;
+}
+.photo {
+    width: 100px;
+    position: absolute;
+    margin-left: 156px;
+    margin-top: 215px;
+    border-radius: 15px;
+    
+    
+}
+
+
+.text {
+    position: absolute;
+    margin-left:  225px;
+    margin-top: 331px;
+    color: green;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 40px;
+    
+}
+span {
+    color:black;
+}
+.forever{
+    position: absolute;
+    margin-left: 228px;
+    margin-top: 380px;
+     font-family: 'Oxygen', sans-serif; 
+   font-size: 40px;
+}
+
+
+
+
+.buttons {
+    width: 200px;
+    border-radius: 20px;
+    height: 44px;
+     color: white;
+     background-color: seagreen;
+     position: absolute;
+     margin-left: 227px;
+     top: 548px;
+     letter-spacing: 0,1rem;
+     font-size: 20px;
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+     
+}
+.buttons:hover{
+    width: 210px;
+    height: 55px;
+}
+.icon {
+  width: 20px;
+  position: absolute;
+  margin-left: 1003px;  
+  top: 122px;
+  transition: 0.24s;
+
+}
+.icon:hover{
+    width: 30px;
+}
+ .money {
+position: absolute;
+margin-left: 1035px;
+top: 120px;
+ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+
+}
+.contact {
+    width: 35px;
+    position: absolute;
+    margin-left: 1120px;
+    top: 111px;
+    transition: 0.24s;
+}
+.contact:hover{
+width: 40px;
+}
+.photo1 {
+    width: 500px;
+    height: 400px;
+    position: absolute;
+    margin-left: 678px;
+    top:300px;
+    border-radius: 16px;
+    box-shadow: 10px 12px 6px gray;
+    letter-spacing: 0.1rem;
+}
+.photo1:hover {
+    width: 550px;
+    height: 450px;
+}

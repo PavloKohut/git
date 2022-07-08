@@ -1,0 +1,82 @@
+.photo2 {
+    width: 300px;
+    height: 466px;
+    position: absolute;
+    margin-left: 1201px;
+    top: 850px;
+    border-radius: 14px;
+    box-shadow: 15px 10px 10px darkkhaki;
+    transform: 0.24s;
+
+
+}
+.photo2:hover {
+    height: 480px;
+}
+
+.photo3 {
+    width: 300px;
+    height: 466px;
+    position: absolute;
+    margin-left: 815px;
+    top: 850px;
+    border-radius: 14px;
+    -webkit-box-shadow: 23px 8px 24px -12px rgba(190, 7, 7, 1);
+    -moz-box-shadow: 23px 8px 24px -12px rgba(190, 7, 7, 1);
+    box-shadow: 23px 8px 24px -12px rgba(190, 7, 7, 1);
+    transform: 0.24s;
+}
+.photo3:hover {
+    height: 480px;
+}
+
+.photo4{
+    width: 300px;
+    height: 466px;
+    position: absolute;
+    margin-left: 815px;
+    top: 1400px;
+    border-radius: 14px;
+    -webkit-box-shadow: 23px 8px 24px -12px rgba(100, 224, 255, 1);
+    -moz-box-shadow: 23px 8px 24px -12px rgba(100, 224, 255, 1);
+    box-shadow: 23px 8px 24px -12px rgba(100, 224, 255, 1);
+    transform: 0.24s;
+}
+
+.photo4:hover {
+    height: 480px;
+}
+
+.photo5{
+    width: 300px;
+    height: 466px;
+    position: absolute;
+    margin-left: 408px;
+    top: 1400px;
+    border-radius: 14px;
+    -webkit-box-shadow: 23px 8px 24px -12px rgba(24, 7, 190, 1);
+    -moz-box-shadow: 23px 8px 24px -12px rgba(24, 7, 190, 1);
+    box-shadow: 23px 8px 24px -12px rgba(24, 7, 190, 1);
+    transform: 0.24s;
+}
+
+.photo5:hover {
+    height: 480px;
+}
+
+.photo6{
+    width: 300px;
+    height: 466px;
+    position: absolute;
+    margin-left: 1200px;
+    top: 1400px;
+    border-radius: 14px;
+    -webkit-box-shadow: 23px 8px 24px -12px rgba(153, 115, 27, 1);
+    -moz-box-shadow: 23px 8px 24px -12px rgba(153, 115, 27, 1);
+    box-shadow: 23px 8px 24px -12px rgba(153, 115, 27, 1);
+    transform: 0.24s;
+}
+
+.photo6:hover {
+    height: 480px;
+}

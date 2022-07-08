@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@1,500&display=swap');
+
+.text3 {
+    position: absolute;
+    margin-left: 830px;
+    top: 721px;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 40px;
+    text-shadow: -14px 1px 17px rgba(66, 68, 90, 1);
+    
+}
+.form {
+    width: 300px;
+    height: 466px;
+    position: absolute;
+    margin-left: 400px;
+    top:850px;
+    border-radius: 15px;
+    -webkit-box-shadow: 23px 8px 24px -12px rgba(67, 161, 215, 1);
+    -moz-box-shadow: 23px 8px 24px -12px rgba(67, 161, 215, 1);
+    box-shadow: 23px 8px 24px -12px rgba(67, 161, 215, 1);
+    background-size: cover;
+    transform: 0.24s;
+}
+.form:hover{
+    height: 480px;
+}
+
+

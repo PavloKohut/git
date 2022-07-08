@@ -1,0 +1,43 @@
+.Nike {
+    width: 78px;
+    position: absolute;
+    left: 1122px;
+    top: 731px;
+
+}
+
+
+
+.inst    { 
+    width: 55px;
+    position: absolute;
+    left: 940px;
+    top: 1990px;
+    letter-spacing: 0.1rem;
+
+}
+.inst:hover {
+    width: 60px;
+}
+.facebook {
+    width: 55px;
+    position: absolute;
+    left: 1100px;
+    top: 1990px;
+    letter-spacing: 0.1rem
+}
+
+.facebook:hover {
+    width: 60px;
+}
+.twitter {
+    width: 55px;
+    position: absolute;
+    left: 786px;
+    top: 1990px;
+    letter-spacing: 0.1rem
+}
+.twitter:hover {
+    width: 60px;
+}
+
